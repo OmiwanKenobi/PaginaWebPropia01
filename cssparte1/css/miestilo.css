@@ -1,0 +1,18 @@
+header, footer{
+    background-color: aquamarine;
+    height: 56px;
+    text-align: center;
+}
+p{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.parrafooter{
+    color: black;
+}
+#h{
+    color: darkgoldenrod;
+}
+ul{
+    list-style: none;
+}

@@ -1,0 +1,22 @@
+:root{
+    font-size: 22px;
+}
+
+.parrafos{
+    font-size: 2rem;
+}
+
+.padre{
+    width: 600px;
+    border-color: rgb(196, 224, 255);
+    border-style: double;
+}
+.hijo{
+    width: 30px;
+    border-color: darkgreen;
+    border-style: solid;
+}
+
+p  { 
+    font-size: 16px;
+   }
